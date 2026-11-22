@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, saintchillpack here 👋
 
-<!--
-**saintchillpack/saintchillpack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Malaysia.
 
-Here are some ideas to get you started:
+- currently deep in ETL pipelines
+- reading docs more than books lately
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saintchillpack&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=blue-green" alt="saintchillpack GitHub stats" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintchillpack&layout=compact&langs_count=8&hide_border=true&theme=blue-green" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/NumPy-e3b341?style=for-the-badge&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/SQL-e3b341?style=for-the-badge&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/DuckDB-e3b341?style=for-the-badge&logoColor=white" alt="DuckDB" /> <img src="https://img.shields.io/badge/Python-e3b341?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-e3b341?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-e3b341?style=for-the-badge&logoColor=white" alt="Jupyter" />
